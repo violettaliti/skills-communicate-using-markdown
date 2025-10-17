@@ -8,6 +8,10 @@
 myVar = "Hello world!"
 ```
 
+- [ ] Check my cats
+- [ ] Check my food in the oven
+- [ ] Git-hubbing
+
 
 
 
