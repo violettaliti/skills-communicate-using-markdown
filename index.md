@@ -1,16 +1,17 @@
-# Topic
-## Subtopic
-### Sub-subtopic :)
+# Thi's GitHub Page test
+## Hi there ₍^. .^₎⟆
+### This is a funny looking cat /ᐠ｡‸｡ᐟ\
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ``` pythonscript
-myVar = "Hello world!"
+yo = "Hello world!"
 ```
 
-- [ ] Check my cats
-- [ ] Check my food in the oven
-- [ ] Git-hubbing
+- [ ]  Check my cats
+- [ ]  Check my food in the oven
+- [ ]  Git-hubbing
+
 
 
 
